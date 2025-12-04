@@ -2584,10 +2584,10 @@ if(CLIENT)
     components/tclient/scripting.h
     components/tclient/scripting/impl.cpp
     components/tclient/scripting/impl.h
-    components/tclient/skinprofiles.cpp
-    components/tclient/skinprofiles.h
     components/tclient/simulation.cpp
     components/tclient/simulation.h
+    components/tclient/skinprofiles.cpp
+    components/tclient/skinprofiles.h
     components/tclient/statusbar.cpp
     components/tclient/statusbar.h
     components/tclient/tclient.cpp
